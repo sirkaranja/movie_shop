@@ -76,7 +76,7 @@ header("location:add_product.php");
 </div>
 
 
-<button class="btn btn-success">Add Movie</button>
+<button class="btn btn-success">Add Movies/button>
 
 
 </form>
